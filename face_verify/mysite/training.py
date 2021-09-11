@@ -5,8 +5,8 @@ import os
 from datetime import datetime
 
 
-path = 'images' #directory name
-images = []     
+path = 'images'
+images = []
 personNames = []
 myList = os.listdir(path)
 print(myList)
